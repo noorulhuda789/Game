@@ -1,0 +1,6 @@
+.vsconfig
+.conf
+.meta
+.assest
+.md
+.cs
